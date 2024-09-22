@@ -1,5 +1,5 @@
 # Practice Git flow of contributing here
 
-'''js
+```js
 console.log("Hello World")
-'''
+```
